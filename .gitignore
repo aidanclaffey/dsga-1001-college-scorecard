@@ -1,6 +1,5 @@
-# No big csvs:
-MERGED*
-
+# Ignore the data
+data/MERGED*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
